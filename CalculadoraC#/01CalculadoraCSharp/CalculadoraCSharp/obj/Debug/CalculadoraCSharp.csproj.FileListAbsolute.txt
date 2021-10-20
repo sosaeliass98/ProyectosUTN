@@ -1,0 +1,7 @@
+C:\Users\sosae\Documents\ProyectosUTN\ProyectosUTN\CalculadoraC#\01CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe.config
+C:\Users\sosae\Documents\ProyectosUTN\ProyectosUTN\CalculadoraC#\01CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe
+C:\Users\sosae\Documents\ProyectosUTN\ProyectosUTN\CalculadoraC#\01CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.pdb
+C:\Users\sosae\Documents\ProyectosUTN\ProyectosUTN\CalculadoraC#\01CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.AssemblyReference.cache
+C:\Users\sosae\Documents\ProyectosUTN\ProyectosUTN\CalculadoraC#\01CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sosae\Documents\ProyectosUTN\ProyectosUTN\CalculadoraC#\01CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.exe
+C:\Users\sosae\Documents\ProyectosUTN\ProyectosUTN\CalculadoraC#\01CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.pdb
